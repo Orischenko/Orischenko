@@ -1,3 +1,3 @@
 <a href="https://github.com/Orischenko/github-streak-card">
-  <img src="https://raw.githubusercontent.com/Orischenko/github-streak-card/main/assets/streak-dusk.svg" alt="Commit streak card" width="100%" />
+  <img src="https://raw.githubusercontent.com/Orischenko/github-streak-card/main/assets/streak-dusk.svg" alt="Commit streak card" height="296" />
 </a>
